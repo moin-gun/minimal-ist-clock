@@ -6,8 +6,7 @@ Built using plain HTML, CSS, and JavaScript. No frameworks, no dependencies, jus
 
 ---
 
-## Demo
-- ist.puter.com
+## Demo https://ist.puter.site
 
 ---
 
